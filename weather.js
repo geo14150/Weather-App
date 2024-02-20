@@ -1,9 +1,7 @@
-const apiKey = "d891e5e36be044688f33ceeca7adcda4"
-const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q="
-
-
-
 // OpenWeather api 
+
+const apiKey = ""
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q="
 
 const searchBox = document.querySelector('.search input');
 const searchBtn = document.querySelector('.search button');
